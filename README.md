@@ -1,2 +1,2 @@
-# ContactManager
- A CRUD (Create, Read, Update, Delete) application for managing and organising contacts. Allows users to create, view, update and delete contact information, email addresses and phone numbers.
+# About the project
+The ContactManager project is a contact management application that provides the functionality to create, read, update and delete contact information, email addresses and phone numbers. The application is designed to provide an intuitive and easy-to-use interface, allowing users to efficiently manage their contact list. With CRUD functionality, users can add new contacts, update existing information or delete old contacts. This application provides a simple and efficient way to organize and manage contact information in one place.
